@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#container{
+    height: 140vh;
+    width: 126.5vh;
+    display: grid;
+    border: 10px solid red;
+    background-color: black;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px;
+}
+
+.chess{
+    background-color: whitesmoke;
+}
+
+.chess1{
+    background-color: rgba(0,0,0,0.5);
+}
